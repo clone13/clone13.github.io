@@ -1,6 +1,6 @@
 {
   "name": "portfolio-react",
-  "homepage": "http://clone13.github.io/",
+  "homepage": "https://clone13.github.io/portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,6 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-    "gh-pages": "^5.0.0",
     "react": "^17.0.2",
     "react-animate-on-scroll": "^2.1.7",
     "react-dom": "^17.0.2",
@@ -50,5 +49,8 @@
   "description": "**Portfolio** Live Preview - [Click Here](https://github.com/clone13)",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
