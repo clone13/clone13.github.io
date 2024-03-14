@@ -1,6 +1,6 @@
 {
   "name": "portfolio-react",
-  "homepage": "http://clone13.github.io/portfolio",
+  "homepage": "http://clone13.github.io/portfolio/public/index.html",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
